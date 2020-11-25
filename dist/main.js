@@ -1,5 +1,5 @@
-import * as THREE from 'three';
-import * as BABYLON from 'babylonjs';
+import * as THREE from '../three';
+import * as BABYLON from '../babylonjs';
 
 //prueba inicial
 alert("Bienvenido Cretino");
