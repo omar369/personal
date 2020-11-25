@@ -10,6 +10,7 @@
   "license": "MIT",
   "homepage": "https://omar369.github.io/personal",
   "dependencies": {
+    "babylonjs": "^4.2.0",
     "gh-pages": "^3.1.0"
   }
 }
