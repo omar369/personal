@@ -1,6 +1,3 @@
-import * as THREE from 'three';
-import * as THREE from '../three';
-
 //prueba inicial
 alert("Bienvenido Cretino");
 
